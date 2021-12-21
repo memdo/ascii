@@ -1,7 +1,5 @@
-<h1 style="text-align: center"> Image to ASCII </h1>
-<h1 style="text-align: center">🖼️ ➡️ (̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄</h1>
-<hr/>
-<img src="src/download.png" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+<h1 align="center"> Image to ASCII <br/>🖼️ ➡️ (̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄</h1>
+<img src="src/download.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
 <hr/>
 <h3 style="text-align: center">Changing brightness formula might help for different images.</h3>
 <hr/>
