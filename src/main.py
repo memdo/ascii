@@ -3,7 +3,6 @@ from PIL import Image
 image = Image.open("src/image.jpg")
 image = image.convert("RGB")
 
-
 characters = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$" 
 max_height = 50
 ratio = 2.5
